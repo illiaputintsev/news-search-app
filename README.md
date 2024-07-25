@@ -55,5 +55,3 @@ In this project, I implemented a news search application using React. I utilized
 - **Custom Hooks**: I created a custom hook, `useStorageState`, to synchronize state with `localStorage`. This hook helps in preserving the search term across sessions.
 - **Error Handling**: Implemented comprehensive error handling to catch and display errors gracefully to the users.
 - **Reducer for State Management**: Leveraged the `useReducer` hook to manage complex state transitions, especially for fetching and managing the list of news articles.
-
-## Project Structure
